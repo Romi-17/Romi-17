@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Romi 👋
 
-<!--
-**Romi-17/Romi-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Instrumentation Engineering Student
 
-Here are some ideas to get you started:
+B.Tech student passionate about **Electronics, Instrumentation, Embedded Systems, and Industrial Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Areas of Interest
+
+- Embedded Systems & Microcontrollers
+- Sensors & Industrial Instrumentation
+- Measurement Systems
+- Control Systems & Process Control
+- PLC, SCADA & DCS
+- Industrial Automation
+
+---
+
+## ⚙️ Hardware & Tools
+
+- Arduino
+- ESP32
+- Sensors & Transducers
+- RTD & Thermocouple
+- Servo Motors
+- Keypad & Displays
+- Arduino IDE
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🔐 DigiLock
+Arduino-based digital locking system using a keypad, servo motor, buzzer, and 7-segment display.
+
+### 🚗 ESP32 RC Car
+ESP32-based remote-controlled car built using embedded hardware and wireless communication.
+
+---
+
+## 📚 Currently Learning
+
+- Industrial Instrumentation
+- Sensors & Measurement
+- Control Systems
+- PLC & SCADA
+- Embedded Systems
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [Romi-17](https://github.com/Romi-17)
+- LinkedIn: [Add LinkedIn Profile](#)
+
+---
+
+⭐ Thanks for visiting my profile!
